@@ -1,7 +1,7 @@
 # HTML editor
-## v. 1.0.5
+## v. 1.0.9
 ___
 ## Updates
 
-No updates yet...
+Updated title and logo (on tab). 02/04/2019
 
