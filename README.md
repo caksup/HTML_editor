@@ -4,3 +4,4 @@
 > Created By [Slidear](https://github.com/slidear) on [GitHub](https://github.com)
 
 You can use this simple HTML code editor to your will. However, it is protected by a license.
+https://caksup.github.io/HTML_editor/
